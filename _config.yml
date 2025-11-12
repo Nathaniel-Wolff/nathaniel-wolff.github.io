@@ -4,3 +4,5 @@ theme: minima
 header_pages:
 - index.md
 - currentprojects/index.md
+- aboutme/aboutme.md
+- pastprojects/index.md
