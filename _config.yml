@@ -2,5 +2,5 @@ title: Nathaniel Wolff
 description: Personal Portfolio
 theme: minima
 header_pages:
-- index.html
+- index.md
 - currentprojects/index.md
