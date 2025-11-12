@@ -2,6 +2,7 @@
 layout: default
 title: Class Data Tracking and Report Generation Platform
 published: false
+permalink: /currentprojects/classtrackingplatform/
 ---
 
 <h1>About this project - </h1>
