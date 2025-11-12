@@ -4,6 +4,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
+<img src="/aboutme/assets/profpic.jpeg" alt="Alt text" width="400" />
 
 <h1> 👋</h1>
 <p>I graduated from the University of California, Santa Cruz in 2024 with a Bachelor’s of Science in Biochemistry & Molecular Biology and a Minor in Bioinformatics, with highest honors in the major. Prior to enrolling at UC Santa Cruz, I participated in the Foothill Middle College and College Now programs, where I completed college level math coursework alongside high school coursework. I leveraged my mathematical framework as a 3 time Bioinformatics assistant within UC Santa Cruz’s Molecular, Cell, and Developmental Biology research groups. In addition to my work at Descartes Learning Club, I am continuing my Bioinformatics assistant work in UC Santa Cruz’s Brangineers Consortium.</p>
