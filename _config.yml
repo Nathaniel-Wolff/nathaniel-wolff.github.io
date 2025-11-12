@@ -3,4 +3,4 @@ description: Personal Portfolio
 theme: minima
 header_pages:
 - index.html
-- Current Projects/index.md
+- currentprojects/index.md
