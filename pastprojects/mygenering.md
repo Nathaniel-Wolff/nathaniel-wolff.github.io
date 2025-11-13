@@ -16,18 +16,11 @@ permalink: /pastprojects/mygenering/
   <!-- Column containing presentation -->
   <div style="flex: 1 1 300px;">
     <h2>View a presentation about the project here.</h2>
-    <iframe src="generingpresentation.pdf" width="100%" height="600" frameborder="0"></iframe>
+   <p><a href="generingpaper.pdf" target="_blank">Open PDF</a></p>
   </div>
 
   <!-- Column containing repo link -->
   <div style="flex: 1 1 300px;">
-    <a href="https://github.com/Nathaniel-Wolff/GeneRing" style="
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #007acc;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-    ">Visit the Repository</a>
+    <p><a href="generingpresentation.pdf" target="_blank">Open PDF</a></p>
   </div>
 </div>
