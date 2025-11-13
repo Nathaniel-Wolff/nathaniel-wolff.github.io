@@ -7,13 +7,20 @@ permalink: /aboutme/
 <img src="/ProfPic.jpeg" alt="Alt text" width="400" />
 
 <h1> 👋</h1>
-<p>I graduated from the University of California, Santa Cruz in 2024 with a Bachelor’s of Science in Biochemistry & Molecular Biology and a Minor in Bioinformatics, with highest honors in the major. Prior to enrolling at UC Santa Cruz, I participated in the Foothill Middle College and College Now programs, where I completed college level math coursework alongside high school coursework. I leveraged my mathematical framework as a 3 time Bioinformatics assistant within UC Santa Cruz’s Molecular, Cell, and Developmental Biology research groups. In addition to my work at Descartes Learning Club, I am continuing my Bioinformatics assistant work in UC Santa Cruz’s Brangineers Consortium.</p>
+<p>Hi there! My name is Nathaniel Wolff, currently based in Oakland, CA. I graduated from the University of California, Santa Cruz in 2024 with a Bachelor of Science in Biochemistry & Molecular Biology and a Minor in Bioinformatics, with highest honors in my major.</p>
 
-<p>While in Foothill Middle College as a high school student, I tutored a community college student in Basic Math/Precalculus, allowing him to pass his mathematics courses and continue through his educational career. Following this, during my time at UC Santa Cruz, I tutored high school and middle school students in Precalculus, helping these students pass all tutored courses and gain confidence in their study skills and reasoning abilities. Handing these students, each from a different background, allowed me to tutor myself to observe each student’s learning styles and personalize their learning experience.  </p>
+<p>I am neurodivergent, diagnosed at age 2 with ASD, and later with ADHD. My neurodivergent brain is inherently interdisciplinary, shaping the trajectory of my career.</p>
 
-<p>In between the start of my graduate school journey, I intend to use my time as a math instructor to help students develop their mathematical framework and confidence in their abilities to solve problems far beyond the math classroom. I will work to ensure that my students come away from their lessons not only prepared for the rigor of math competitions, but prepared to approach the problems they may face beyond math with an analytical eye.</p>  
+<p>Many neurodivergent individuals’ brains, like mine, operate by processing multiple trains of thought at once, one way of describing “divergent thinking”. This way of thinking has caused me to explore the connections between the fields of STEM and use them to develop complex models of biological systems.</p>
 
-<p>Helping students realize their potential to solve complex problems in the world and their own lives is why I love tutoring. All students can do amazing things, and I hope to help them develop their confidence in themselves and build the life they dream of.</p>
+<p>This divergent thinking sparked an interest in advanced math in high school, leading me  to complete advanced math coursework at Foothill College while still in high school.</p>
 
-</p>In my free time, you can find me riding my bike up mountains and trails, swimming in the pool or at the beach,  cooking a nice meal, or at the piano or drums.
- </p>
+<p>At UC Santa Cruz, to translate the connections between mathematics, computational, and experimental biology into actionable insights, I chose to pursue both Biochemistry and Bioinformatics. </p>
+
+<p>I have leveraged these skills to work successfully with several cross-functional teams, as an intern at Roche Diagnostics and as a multi-time Research Assistant at UC Santa Cruz. At Roche, I collaborated with wet lab scientists to test a novel immunoassay with both computational and experimental methods. At UCSC, I develop bioinformatics pipelines for biophysics and computational neuroscience labs to supplement ongoing bench work.</p>
+
+<p>My interdisciplinary path has resulted in a resume that may not mirror the canonical path of many students in biology, but reflects my unique strengths. </p>
+
+<p>I intend to continue on the path of interdisciplinary biology in graduate programs that emphasize collaboration between clinicians, experimental biologists, mathematicians, and computational biologists alike to develop robust models of biological systems that inform clinical practice. </p>
+
+<p>In my free time, you’ll probably find me cycling up mountains and trails, swimming, cooking a favorite meal, or playing the piano and drums.</p>
