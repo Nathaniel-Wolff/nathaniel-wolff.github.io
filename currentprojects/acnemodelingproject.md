@@ -12,7 +12,7 @@ permalink: /currentprojects/acnemodelingproject/
 <!-- Column containing project poster -->
   <div style="flex: 1 1 300px;">
   <h2>To read more about the project, take a look at the poster below!</h2>
-  <iframe src="https://nathaniel-wolff.github.io/Pharma Style Writeup.pdf" width="100%" height="600" frameborder="0"></iframe>
+  <iframe src="https://nathaniel-wolff.github.io/pharmastylewriteup.pdf" width="100%" height="600" frameborder="0"></iframe>
   </div>
 
 
