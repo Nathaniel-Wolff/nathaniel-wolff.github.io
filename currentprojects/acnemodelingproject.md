@@ -8,6 +8,14 @@ permalink: /currentprojects/acnemodelingproject/
 <h1>About this project - </h1>
 <p>For all of the cost and effort of acne treatment, it is important to quantify how well acne treatment products lead to positive patient outcomes. In particular, we ask: Does repeated use of the same acne treatment eventually lead to diminishing returns in acne severity improvement? Can we quantify those diminishing returns? In this poster, we present a statistical analysis of a longitudinal patient dataset that quantifies the returns of repeated acne treatment on normalized acne severity.</p>
 
+
+<!-- Column containing project poster -->
+  <div style="flex: 1 1 300px;">
+  <h2>To read more about the project, take a look at the poster below!</h2>
+  <iframe src="https://nathaniel-wolff.github.io/Pharma Style Writeup.pdf" width="100%" height="600" frameborder="0"></iframe>
+  </div>
+
+
   <!-- Column containing button-looking link used to navigate to the case study hosted on SCC -->
   <div style="flex: 1 1 300px;">
   <h2>To visit the repository, click the button below.</h2>
