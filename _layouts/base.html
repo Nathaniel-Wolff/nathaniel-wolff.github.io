@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-
   {%- include head.html -%}
+
+  <!-- Custom stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/stylesheet.css' | relative_url }}">
 
   <body>
 
@@ -18,5 +20,4 @@
     {%- include sub-footer.html -%}
 
   </body>
-
 </html>
