@@ -54,14 +54,10 @@ main {
 }
 
 /* Keep Minima navbar horizontal on desktop */
-.site-nav ul.menu {
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
-  padding: 0;
-  margin: 0;
-}
-
-.site-nav ul.menu li {
-  list-style: none;
+/* Correct Minima navbar horizontal layout */
+.site-nav .trigger {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
 }
