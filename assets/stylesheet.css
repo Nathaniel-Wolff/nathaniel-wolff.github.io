@@ -2,8 +2,7 @@ body {
     font-family: Georgia, serif;
     margin: 0;
     padding: 0;
-    /* Remove custom line-height OR set to 1.5 */
-    line-height: 1.5;
+    line-height: 1.5; /* better spacing */
 }
 
 h1, h2, h3 {
@@ -45,51 +44,25 @@ main {
     text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
 }
 
-/* Mobile navbar fixes */
-@media (max-width: 600px) {
-  .site-nav .page-link {
-      display: block;
-      margin-bottom: 10px;
-  }
-}
-
-/* Keep Minima navbar horizontal on desktop */
-/* Correct Minima navbar horizontal layout */
-/* Correct Minima navbar behavior */
-.site-nav .trigger {
+/* Force horizontal nav links */
+.nav-items {
     display: flex !important;
     flex-direction: row !important;
-    flex-wrap: nowrap !important;
-    gap: 20px;
-    align-items: center;
-}
-.site-nav .menu-icon {
-    display: none !important;
-}
-
-.site-nav .trigger {
-    display: flex !important;
-}
-
-/* Horizontal navigation */
-.nav-items {
-    display: flex;          /* place links side by side */
-    flex-direction: row;    /* explicitly horizontal */
-    gap: 20px;              /* spacing between links */
-    align-items: center;    /* vertical alignment */
+    gap: 20px !important;
+    align-items: center !important;
 }
 
 .nav-items a {
-    display: inline-block;
-    padding: 0;
-    margin: 0;
-    line-height: 1.2;
+    display: inline-block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1.2 !important;
 }
 
 /* Optional: stack nav links on small screens */
 @media (max-width: 600px) {
     .nav-items {
-        flex-direction: column;
-        gap: 10px;
+        flex-direction: column !important;
+        gap: 10px !important;
     }
 }
