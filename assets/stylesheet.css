@@ -56,3 +56,15 @@ main {
     }
 }
 
+/*for keeping style of nav bar in minima*/
+.site-nav ul.menu {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.site-nav ul.menu li {
+  list-style: none;
+}
