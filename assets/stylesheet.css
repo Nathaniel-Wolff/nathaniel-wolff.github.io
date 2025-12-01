@@ -55,9 +55,18 @@ main {
 
 /* Keep Minima navbar horizontal on desktop */
 /* Correct Minima navbar horizontal layout */
+/* Correct Minima navbar behavior */
 .site-nav .trigger {
-    display: flex;
-    flex-direction: row;
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
     gap: 20px;
     align-items: center;
+}
+.site-nav .menu-icon {
+    display: none !important;
+}
+
+.site-nav .trigger {
+    display: flex !important;
 }
