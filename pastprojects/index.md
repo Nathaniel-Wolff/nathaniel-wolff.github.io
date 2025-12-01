@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Past Projects
 permalink: /pastprojects/
 ---
