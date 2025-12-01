@@ -70,3 +70,26 @@ main {
 .site-nav .trigger {
     display: flex !important;
 }
+
+/* Horizontal navigation */
+.nav-items {
+    display: flex;          /* place links side by side */
+    flex-direction: row;    /* explicitly horizontal */
+    gap: 20px;              /* spacing between links */
+    align-items: center;    /* vertical alignment */
+}
+
+.nav-items a {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    line-height: 1.2;
+}
+
+/* Optional: stack nav links on small screens */
+@media (max-width: 600px) {
+    .nav-items {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
