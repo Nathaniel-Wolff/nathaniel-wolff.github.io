@@ -1,0 +1,58 @@
+body {
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+
+/* Used for all headers */
+h1,h2,h3 {
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+
+main {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Used as a box for different projects on the main page or on navigation pages with image overlaid*/
+.projectbox {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.projectbox img {
+  display: block;
+  width: 100%;
+  height: 80%;
+  border-radius: 8px;
+}
+.overlay-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+
+
+/*For mobile devices*/
+@media (max-width: 600px) {
+    main {
+        padding: 10px;
+    }
+
+    nav a {
+        display: block;
+        margin-bottom: 10px;
+    }
+}
+
