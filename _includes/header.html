@@ -1,20 +1,14 @@
 <header class="site-header">
   <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
-
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
-    {%- unless page_paths == empty -%}
-      <nav class="site-nav">
-        <!-- Mobile menu toggle -->
-        <input type="checkbox" id="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon"></span>
-        </label>
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon"></span>
+      </label>
 
-        {% include nav-items.html paths=page_paths %}
-      </nav>
-    {%- endunless -%}
+      {% include nav-items.html paths=site.pages | map:"path" %}
+    </nav>
   </div>
 </header>
