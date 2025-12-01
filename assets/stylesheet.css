@@ -2,7 +2,7 @@ body {
     font-family: Georgia, serif;
     margin: 0;
     padding: 0;
-    line-height: 1.7;
+    line-height: 1.5;
 }
 
 /* Used for all headers */
@@ -46,9 +46,11 @@ main {
 
 /*For mobile devices*/
 @media (max-width: 600px) {
-    main {
-        padding: 10px;
-    }
+  .site-nav .page-link {
+    display: block;
+    margin-bottom: 10px;
+  }
+}
 
     nav a {
         display: block;
