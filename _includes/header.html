@@ -2,13 +2,14 @@
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
+    {%- assign page_paths = site.pages | map: "path" -%}
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" />
       <label for="nav-trigger">
         <span class="menu-icon"></span>
       </label>
 
-      {% include nav-items.html paths=site.pages | map:"path" %}
+      {% include nav-items.html paths=page_paths %}
     </nav>
   </div>
 </header>
