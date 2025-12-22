@@ -15,7 +15,6 @@ permalink: /aboutme/
   from { transform: translateX(0); opacity: 0; }
   to { transform: translateX(50px); opacity: 1;}
 }
-</style>
 
 /* Staggered delays for each of 3 photos */
 .slide1 { animation-delay: 0s; }
