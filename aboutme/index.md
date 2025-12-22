@@ -12,13 +12,20 @@ permalink: /aboutme/
 }
 
 @keyframes slide-right {
-  from { transform: translateX(0); }
-  to { transform: translateX(50px); }
+  from { transform: translateX(0); opacity: 0; }
+  to { transform: translateX(50px); opacity: 1;}
 }
 </style>
 
-<img src="/ProfPic.jpeg" alt="Alt text" width="300" height="300" class="move-right"/>
+/* Staggered delays for each of 3 photos */
+.slide1 { animation-delay: 0s; }
+.slide2 { animation-delay: 0.5s; }   
+.slide3 { animation-delay: 1s; }  
+</style>
 
+
+<img src="/ProfPic.jpeg" alt="Alt text" width="300" height="300" class="move-right slide1"/>
+<img src="/Pic2.jpeg" alt="Alt text" width="300" height="300" class="move-right slide2"/>
 
 
 <p>Hi there! My name is Nathaniel Wolff, currently based in Oakland, CA. I graduated from the University of California, Santa Cruz in 2024 with a Bachelor of Science in Biochemistry & Molecular Biology and a Minor in Bioinformatics, earning highest honors in my major.</p>
