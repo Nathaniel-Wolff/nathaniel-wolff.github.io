@@ -18,8 +18,8 @@ permalink: /aboutme/
 
 /* Staggered delays for each of 3 photos */
 .slide1 { animation-delay: 0s; }
-.slide2 { animation-delay: 0.5s; }   
-.slide3 { animation-delay: 1s; }  
+.slide2 { animation-delay: 2s; }   
+.slide3 { animation-delay: 4s; }  
 </style>
 
 
