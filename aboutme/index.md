@@ -6,7 +6,19 @@ permalink: /aboutme/
 
 .move-right {
   transform: translate(50px, 0);
+  transition: transform 2s ease; /*short animation of 2 sec*/  
 }
+
+/*animation triggered upon page load*/
+.move-right.loaded {transform: translateX(50px);   /* move 50px to the right */}
+
+/*other needed loading code*/
+<script>
+  window.addEventListener('load', () => {
+    document.querySelector('.move-right').classList.add('loaded');
+  });
+</script>
+
 
 <img src="/ProfPic.jpeg" alt="Alt text" width="300" height="300" class="move-right"/>
 
