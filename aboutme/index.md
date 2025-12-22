@@ -4,23 +4,21 @@ title: About Me
 permalink: /aboutme/
 ---
 
+<style>
 .move-right {
-  transform: translate(50px, 0);
-  transition: transform 2s ease; /*short animation of 2 sec*/  
+  display: inline-block;              
+  transform: translateX(0);           
+  animation: slide-right 2s ease forwards; 
 }
 
-/*animation triggered upon page load*/
-.move-right.loaded {transform: translateX(50px);   /* move 50px to the right */}
-
-/*other needed loading code*/
-<script>
-  window.addEventListener('load', () => {
-    document.querySelector('.move-right').classList.add('loaded');
-  });
-</script>
-
+@keyframes slide-right {
+  from { transform: translateX(0); }
+  to { transform: translateX(50px); }
+}
+</style>
 
 <img src="/ProfPic.jpeg" alt="Alt text" width="300" height="300" class="move-right"/>
+
 
 
 <p>Hi there! My name is Nathaniel Wolff, currently based in Oakland, CA. I graduated from the University of California, Santa Cruz in 2024 with a Bachelor of Science in Biochemistry & Molecular Biology and a Minor in Bioinformatics, earning highest honors in my major.</p>
