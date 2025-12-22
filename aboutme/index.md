@@ -7,7 +7,8 @@ permalink: /aboutme/
 <style>
 .move-right {
   display: inline-block;              
-  transform: translateX(0);           
+  transform: translateX(0);
+  opacity: 0;
   animation: slide-right 2s ease forwards; 
 }
 
@@ -18,8 +19,8 @@ permalink: /aboutme/
 
 /* Staggered delays for each of 3 photos */
 .slide1 { animation-delay: 0s; }
-.slide2 { animation-delay: 2s; }   
-.slide3 { animation-delay: 4s; }  
+.slide2 { animation-delay: 0.5s; }   
+.slide3 { animation-delay: 1s; }  
 </style>
 
 
