@@ -10,6 +10,10 @@ permalink: /aboutme/
   transform: translateX(0);
   opacity: 0;
   animation: slide-right 2s ease forwards; 
+  max-width: 300px;
+  height: auto;
+  margin-right: 20px;
+  
 }
 
 @keyframes slide-right {
