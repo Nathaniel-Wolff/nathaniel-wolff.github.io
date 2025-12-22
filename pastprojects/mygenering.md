@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Kinetic Proofreading and Nucleosome Dynamics in S. cerevisae
 published: true
 permalink: /pastprojects/mygenering/
