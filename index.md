@@ -11,21 +11,21 @@ title: Home
   <!-- For the acne project -->
   <a href="currentprojects/acnemodelingproject/" class="project-card">
     <img src="AcneProjectPic.png" alt="Quantifying Acne Severity Dynamics: A Bayesian and KL Divergence Based Predictive Model">
-    <div class="overlay top">Project 1</div>
+    <div class="overlay top">Quantifying Acne Severity Dynamics: A Bayesian and KL Divergence Based Predictive Model</div>
     <div class="overlay bottom">Click to view details</div>
   </a>
   
   <!-- For the class tracking platform project -->
   <a href="currentprojects/classtrackingplatform/" class="project-card">
     <img src="ClassPlatformPic.jpg" alt="The Class Data Tracking and Report Generation Platform">
-    <div class="overlay top">Project 2</div>
+    <div class="overlay top">The Class Data Tracking and Report Generation Platform</div>
     <div class="overlay bottom">Click to view details</div>
   </a>
  
   <!-- For the GeneRing project -->
   <a href="pastprojects/mygenering/" class="project-card">
     <img src="GeneRing.png" alt="Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae">
-    <div class="overlay top">Project 3</div>
+    <div class="overlay top">Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae</div>
     <div class="overlay bottom">Click to view details</div>
   </a>
 </div>
