@@ -12,6 +12,7 @@
   transform: translateY(0);
   opacity: 0;
   animation: slide-down 2s ease forwards;
+  flex: 0 0 auto;
 }
 
 @keyframes slide-down {
@@ -64,9 +65,21 @@ a.project-card:active {
 
 /* flexbox for horizontal alignment of cards, but scrollable*/
 .projects-container {
-  display: flex;                  
+  display: flex;
+  flex-wrap: nowrap;
   gap: 20px;  
   overflow-x: auto;
-  justify-content: flex-start; 
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 10px; 
+}
+
+/*hiding scrollbar*/
+.projects-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.projects-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
 }
 
