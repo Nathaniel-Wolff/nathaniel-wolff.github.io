@@ -50,5 +50,9 @@ a.project-card:hover {background-color: darkblue;
 a.project-card:active {
     transform: scale(0.90);}
 
+/* for animation staggering*/
+.slide1 { animation-delay: 0s; }
+.slide2 { animation-delay: 0.3s; }
+.slide3 { animation-delay: 0.6s; }
 
   
