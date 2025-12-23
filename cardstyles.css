@@ -1,0 +1,54 @@
+/*script containing classes used throughout all pages*/
+
+/* backing of card */
+.project-card {
+  position: relative;
+  width: 300px;
+  padding: 8px;
+  margin: 20px;
+  border: 2px #6432a8 ridge;
+  box-sizing: border-box;
+  transform: translateY(0);
+  opacity: 0;
+  animation: slide-down 2s ease forwards;
+}
+
+@keyframes slide-down {
+  from {transform: translateY(0); opacity: 0;}
+  to { transform: translateY(20px); opacity: 1;}
+}
+
+/* project image */
+.project-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/*overlay used to impose image over the project card*/
+.overlay {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  padding: 8px;
+  color: white;
+  background: rgba(0,0,0,0.6);
+}
+
+/*adding top and bottom classes to overlay so that the images are affixed close to the top and bottom of the full card*/
+.overlay.top {top: 8px;
+             }
+.overlay.bottom {bottom: 8px;
+                }
+
+
+/*adding hover effect that links to a description of each project in their respective pages*/
+a.project-card:hover {background-color: darkblue;
+    cursor: pointer;}
+
+/* small click effect after card is clicked*/
+a.project-card:active {
+    transform: scale(0.90);}
+
+
+  
