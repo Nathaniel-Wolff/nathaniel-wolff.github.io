@@ -1,7 +1,8 @@
 ---
 layout: base
-title: Projects   <!-- Note: This title is changed to avoid having to refactor the whole project.-->
+title: Projects   
 ---
+<!-- Note: This title is changed to avoid having to refactor the whole project.-->
 
 Here’s an overview of my current projects. Please click the name of a project to view more information about it. 
 
