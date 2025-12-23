@@ -7,23 +7,23 @@ title: Home
 <p>Welcome to my website hosted on GitHub Pages! Here, you will find a bit about me, descriptions of the projects I am most proud of, and a link to my blog on Substack. </p>
 <p>To navigate to each item, click the pages on the top right, or click the cards below. </p>
 
-<div class="all-project-cards">
+<div class="projects-container">
   <!-- For the acne project -->
-  <a href="currentprojects/acnemodelingproject/" class="project-card">
+  <a href="currentprojects/acnemodelingproject/" class="project-card slide1">
     <img src="AcneProjectPic.png" alt="Quantifying Acne Severity Dynamics: A Bayesian and KL Divergence Based Predictive Model">
     <div class="overlay top">Quantifying Acne Severity Dynamics: A Bayesian and KL Divergence Based Predictive Model</div>
     <div class="overlay bottom">Click to view details</div>
   </a>
   
   <!-- For the class tracking platform project -->
-  <a href="currentprojects/classtrackingplatform/" class="project-card">
+  <a href="currentprojects/classtrackingplatform/" class="project-card slide2">
     <img src="ClassPlatformPic.jpg" alt="The Class Data Tracking and Report Generation Platform">
     <div class="overlay top">The Class Data Tracking and Report Generation Platform</div>
     <div class="overlay bottom">Click to view details</div>
   </a>
  
   <!-- For the GeneRing project -->
-  <a href="pastprojects/mygenering/" class="project-card">
+  <a href="pastprojects/mygenering/" class="project-card slide3">
     <img src="GeneRing.png" alt="Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae">
     <div class="overlay top">Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae</div>
     <div class="overlay bottom">Click to view details</div>
