@@ -3,12 +3,13 @@ layout: base
 title: Past Projects
 permalink: /pastprojects/
 ---
+Here’s an overview of my past projects. Please click the name of a project to view more information about it.
 
-<h2>Here’s an overview of my past projects. Please click the name of a project to view more information about it.</h2>
-<ul>
-  <li><a href="/pastprojects/mygenering"> Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae</a></li>
-  <!-- <li><a href="/pastprojects/bme205and230"> Bioinformatics Models/Algorithms Toolkit</a></li>
-  <li><a href="/pastprojects/bme160"> Primary Sequence Analysis/Protein Parameters Python Toolkit</a></li>
-  <li><a href="/pastprojects/bme163"> Molecular Biology Common Figures Generation Toolkit</a></li> -->
-</ul>
+<div class="projects-container">
+  <!-- For the GeneRing project -->
+  <a href="pastprojects/mygenering/" class="project-card slide3">
+    <img src="GeneRing.png" alt="Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae">
+    <div class="overlay top">Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae</div>
+  </a>
+</div>
 
