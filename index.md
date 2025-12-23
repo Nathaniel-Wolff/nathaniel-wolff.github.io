@@ -17,14 +17,14 @@ title: Home
   
   <!-- For the class tracking platform project -->
   <a href="currentprojects/classtrackingplatform/" class="project-card">
-    <img src="project2.jpg" alt="The Class Data Tracking and Report Generation Platform">
+    <img src="ClassPlatformPic.jpg" alt="The Class Data Tracking and Report Generation Platform">
     <div class="overlay top">Project 2</div>
     <div class="overlay bottom">Click to view details</div>
   </a>
  
   <!-- For the GeneRing project -->
   <a href="pastprojects/mygenering/" class="project-card">
-    <img src="project3.jpg" alt="Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae">
+    <img src="GeneRing.png" alt="Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae">
     <div class="overlay top">Project 3</div>
     <div class="overlay bottom">Click to view details</div>
   </a>
