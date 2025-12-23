@@ -29,7 +29,7 @@ permalink: /aboutme/
 
 
 <img src="/ProfPic.jpeg" alt="Alt text" width="300" height="300" class="move-right slide1"/>
-<img src="/Pic2Real.jpeg" alt="Alt text" width="300" height="300" class="move-right slide2"/>
+<img src="/Pic2Real.JPG" alt="Alt text" width="300" height="300" class="move-right slide2"/>
 
 
 <p>Hi there! My name is Nathaniel Wolff, currently based in Oakland, CA. I graduated from the University of California, Santa Cruz in 2024 with a Bachelor of Science in Biochemistry & Molecular Biology and a Minor in Bioinformatics, earning highest honors in my major.</p>
