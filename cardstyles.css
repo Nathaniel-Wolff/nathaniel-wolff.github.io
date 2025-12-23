@@ -36,11 +36,13 @@
   height: 10%;
   padding: 2px;
   color: white;
-  background: rgba(0,0,0,0.6);
+  background: rgba(0,0,0,0.9);
   text-align: center;
   font-size: 0.8rem;  /* smaller text to avoid underfitting*/
-  white-space: nowrap; /* preventing text from wrapping */
+  white-space: normal; /* preventing text from wrapping */
+  line-height: 1.2em;
   overflow: hidden;
+  box-sizing: border-box;
 }
 
 /*adding top and bottom classes to overlay so that the images are affixed close to the top and bottom of the full card*/
