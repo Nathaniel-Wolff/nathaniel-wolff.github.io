@@ -3,7 +3,7 @@ layout: base
 title: Past Projects
 permalink: /pastprojects/
 ---
-Here’s an overview of my past projects. Please click the name of a project to view more information about it.
+Here’s an overview of my past projects. Please click a card to view more information about the corresponding project.
 
 <div class="projects-container">
   <!-- For the GeneRing project -->
