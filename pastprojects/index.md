@@ -1,15 +1,13 @@
 ---
 layout: base
-title: Past Projects
+title: Contact
 permalink: /pastprojects/
 ---
-Here’s an overview of my past projects. Please click a card to view more information about the corresponding project.
 
-<div class="projects-container">
-  <!-- For the GeneRing project -->
-  <a href="pastprojects/mygenering/" class="project-card slide3">
-    <img src="GeneRing.png" alt="Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae">
-    <div class="overlay top">Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae</div>
-  </a>
-</div>
+Contact Information: 
+Email (inquiries): <a>nathanielwolff1818@gmail.com</a>
+LinkedIn: <a>https://www.linkedin.com/in/nathaniel-wolff/</a>
+Github: <a>https://github.com/Nathaniel-Wolff</a>
+
+
 
