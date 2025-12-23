@@ -67,6 +67,8 @@ a.project-card:active {
 
 /* flexbox for horizontal alignment of cards, but scrollable*/
 .projects-container {
+  width: 90vw;
+  padding: 0 20px;
   display: flex;
   flex-wrap: nowrap;
   gap: 20px;  
