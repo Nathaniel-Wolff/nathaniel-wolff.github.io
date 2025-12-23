@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Quantifying Acne Severity Dynamics - A Bayesian and KL Divergence Framework
 published: true
 permalink: /currentprojects/acnemodelingproject/
