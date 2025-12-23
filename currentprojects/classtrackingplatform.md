@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Class Data Tracking and Report Generation Platform
 published: true
 permalink: /currentprojects/classtrackingplatform/
