@@ -31,7 +31,7 @@
   position: absolute;
   left: 50%;
   width: 90%;
-  transform: translateX(-50%); #/*shifting backwards for perfect centering*/
+  transform: translateX(-50%); /*shifting backwards for perfect centering*/
   height: 10%;
   padding: 2px;
   color: white;
