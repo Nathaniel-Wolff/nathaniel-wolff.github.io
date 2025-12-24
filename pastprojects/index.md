@@ -5,10 +5,11 @@ permalink: /pastprojects/
 ---
 
 <h1> Contact Information:  </h1>
-[Email (inquiries)](nathanielwolff1818@gmail.com)
-<p></p>
+<br></br>
+Email (inquiries): nathanielwolff1818@gmail.com
+<br></br>
 [LinkedIn:](https://www.linkedin.com/in/nathaniel-wolff/)
-<p></p>
+<br></br>
 [Github:](https://github.com/Nathaniel-Wolff)</p>
 
 
