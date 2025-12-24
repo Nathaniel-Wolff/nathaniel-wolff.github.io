@@ -4,7 +4,7 @@ title: Home
 ---
 
 <h1>Welcome!</h1>
-<br> </br>
+<p></p>
 <p>I'm Nathaniel, a graduate with a background in bioinformatics and biochemistry focused on developing mechanistic, quantitiative models of human disease that inform and optimize clinical decision making.
 My work emphasizes probabilistic modeling, statistical analysis, and reproducible bioinformatics pipelines applied to a variety of biological datasets.</p>
 <p>Click a card below to navigate to a featured project. </p>
