@@ -4,6 +4,7 @@ title: Home
 ---
 
 <h1>Welcome!</h1>
+<br></br>
 <p>I'm Nathaniel, a graduate with a background in bioinformatics and biochemistry focused on developing mechanistic, quantitiative models of human disease that inform and optimize clinical decision making.
 My work emphasizes probabilistic modeling, statistical analysis, and reproducible bioinformatics pipelines applied to a variety of biological datasets.</p>
 <p>Click a card below to navigate to a featured project. </p>
@@ -27,26 +28,3 @@ My work emphasizes probabilistic modeling, statistical analysis, and reproducibl
     <div class="overlay top">Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae</div>
   </a>
 </div>
-
-
-
-
-
-<!-- <h2>Current Projects</h2>
-<ul>
-  <li>Class Data Tracking and Report Generation Platform </li>
-  <li>Quantifying Acne Severity Dynamics - A Bayesian and KL Divergence Framework</li>
-</ul>
-
-<h2>Past Projects</h2>
-<ul>
-  <li>Kinetic Proofreading and Dynamic Nucleosome Structure in S. cerevisae </li>
-  <li>Bioinformatics Models/Algorithms Toolkit</li>
-  <li>Molecular Biology Common Figures Generation Toolkit </li>
-  <li>Primary Sequence Analysis/Protein Parameters Python Toolkit</li>
-  
-</ul> -->
-
-
-
-<p>Check out my Github profile (<a href="https://github.com/nathaniel-wolff">GitHub</a>) for repositories.</p>
